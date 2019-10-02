@@ -1,0 +1,29 @@
+[Exercises 1] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 4 - Arrays)
+
+    DONE - [Exercises 2] Tantangan Array 1 (Mengakses Nilai dalam Array)
+
+    DONE - [Exercises 3] Tantangan Array 2 (Melooping menggunakan Array)
+
+    DONE - [Exercises 4] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)
+
+    DONE - [Exercises 5 (Auto)] Palindrome
+
+    DONE - [Exercises 6 (Auto)] Palindrome Angka
+
+    DONE - [Exercises 7 (Auto)] Hitung Jumlah Kata
+
+    DONE - [Exercises 8 (Auto)] Pasangan Angka Terbesar
+
+    DONE - [Exercises 9 (Auto)] Cari Mean
+
+    DONE - [Exercises 10 (Auto)] Perkalian Unik
+
+    DONE - [Exercises 11 (Auto)] Deret Aritmatika
+
+    DONE - [Exercises 12 (Auto)] Deret Geometri
+
+    DONE - [Exercises 13 (Auto)] Target Terdekat
+
+    DONE - [Exercises 14] Mengelompokkan Angka
+
+    DONE - [Exercises 15] Mengelompokkan Hewan
