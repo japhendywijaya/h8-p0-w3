@@ -5,9 +5,6 @@ function hitungJumlahKata(kalimat)
     var splittingStr = trimmingStr.split(" ")
     return (splittingStr.length)
 
-
-    
-
 }
 
 
