@@ -5,6 +5,9 @@ function hitungJumlahKata(kalimat)
     var splittingStr = trimmingStr.split(" ")
     return (splittingStr.length)
 
+
+    
+
 }
 
 
@@ -15,4 +18,4 @@ function hitungJumlahKata(kalimat)
   console.log(hitungJumlahKata('I')); // 1
   console.log(hitungJumlahKata('I believe I can code')); // 5
 
-  console.log('additional test =', hitungJumlahKata('   ini kalimat berspasi')); // 5
+  console.log('additional test =', hitungJumlahKata('   ini kalimat berspasi'));
